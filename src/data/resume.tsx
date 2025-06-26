@@ -83,7 +83,7 @@ export const DATA = {
       title: "Frontend Developer",
       logoUrl: "/ETMBikes.png",
       start: "January 2023",
-      end: "Present",
+      end: "July 2023",
       description:
         "Collaborated with the founder to develop the frontend for EtmBikes, focusing on creating a responsive, user-friendly UI with smooth animations and an intuitive layout.",
     },
